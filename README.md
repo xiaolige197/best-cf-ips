@@ -43,7 +43,7 @@
 ### IP API
 
 ```
-https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ipv4.txt
+https://raw.githubusercontent.com/xiaolige197/best-cf-ips/refs/heads/main/best-cf-ipv4.txt
 ```
 ---
 
