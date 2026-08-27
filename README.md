@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/xiaolige197/best-cf-ips/refs/heads/main/best-c
 ### DOMAIN API
 
 ```
-https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-domain.txt
+https://raw.githubusercontent.com/xiaolige197/best-cf-ips/refs/heads/main/best-cf-domain.txt
 ```
 
 ## 感谢以下个人或组织的公开的优选IP筛选数据
